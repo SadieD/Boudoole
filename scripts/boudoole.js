@@ -43,7 +43,7 @@ function removeGrid() {
 }
 
 function clearDots() {
-	$('.boudoole_dot').css({"background-color":"white"});
+	$('.boudoole_dot').css({"background-color":"transparent"});
 }
 
 //Function to convert rgb color to hex format
